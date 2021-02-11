@@ -1,0 +1,2 @@
+【忘備録】リスト内包表記について（Python）
+https://qiita.com/shiho97797/items/4147f09b66d671cf530c
